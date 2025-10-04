@@ -1,0 +1,7 @@
+OrderID,OrderDate,CustomerID,Gender,Age,Region,ProductCategory,OrderAmount,PaymentMethod
+10001,2023-01-05,CUST001,Female,34,West,Electronics,249.99,Credit Card
+10002,2023-01-06,CUST002,Male,41,South,Clothing,59.95,Paypal
+10003,2023-01-06,CUST003,Female,27,East,Home & Kitchen,89.90,Debit Card
+10004,2023-01-07,CUST004,Male,22,North,Sports,120.00,Credit Card
+10005,2023-01-08,CUST005,Other,38,West,Clothing,35.00,Paypal
+... (generate the remaining 795 rows using the script below)
